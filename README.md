@@ -1,4 +1,4 @@
-#Allacritty minimal config buttonless
+#Alacritty minimal config buttonless
 
 <img width="920" height="715" alt="Screenshot 2025-07-24 at 23 28 23" src="https://github.com/user-attachments/assets/15787a3d-6bec-471b-85bb-d7def3b14f45" />
 
